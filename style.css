@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+    color: darkslateblue;
+}
+
+section {
+    margin-left: 400px;
+    margin-right: 300px;
+}
